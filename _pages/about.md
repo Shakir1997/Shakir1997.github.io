@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I'm currently working at [werofit](https://wero.fit/) as a Machine Learning Engineer. I am working on various image processing and size esimation of object in a images.
+* I'm currently working at [werofit](https://wero.fit/) as a Machine Learning Engineer. I am working on image processing and size esimation of object in a images.
 
 * My research interets lie in general Machine Learning and Quantum Computing to solve real time problem in Cyber Security and Healthcare industry.
 
