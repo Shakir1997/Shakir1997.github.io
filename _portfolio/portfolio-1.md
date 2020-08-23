@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Finding Donors for CharityML"
+excerpt: "Classification problem, Feature engineering. Applied Random Forest, Logistic Regression and Gradient Descent Algorithm and selected Logistic Regression with the highest Accuracy and F-score of  84% and 68%. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
