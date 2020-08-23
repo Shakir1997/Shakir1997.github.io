@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
----
-year: 2013
-Degree: BTech
----
+
+| Year | Degree | Institute  | CGPA  |
+|---|---|---|---|
+| 2020  | M.Tech(CSE)  | Ahmedabad University | 3.11/4  |   
+| 2018  | B.Tech(Electrical)  | Gujarat Technological University  | 7.71/10  | 
 
 Work experience
 ======
