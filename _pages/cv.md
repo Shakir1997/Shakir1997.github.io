@@ -33,11 +33,11 @@ Work experience
 Technical Skills
 ======
 
-**Area of Interests:** Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
-**Languages/Scripts/Database:** Python, R, HTML(Elemantary), MySQL
-**DL Libraries:** Sklearn, Keras, Tensorflow, OpenCV
-**Tools/Software:** Orange, Weka, Power BI, TeXstudio(Latex), MS Excel
-**Operating System:** Windows, Linux
+**Area of Interests:** Machine Learning, Deep Learning, Computer Vision, Natural Language Processing \
+**Languages/Scripts/Database:** Python, R, HTML(Elemantary), MySQL \
+**DL Libraries:** Sklearn, Keras, Tensorflow, OpenCV \
+**Tools/Software:** Orange, Weka, Power BI, TeXstudio(Latex), MS Excel \
+**Operating System:** Windows, Linux \
 
 Achievents & Co-Curricular Activities
 ======
