@@ -23,11 +23,11 @@ Education
 
 Work experience
 ======
-****Machine Learning Engineer, WeroFit, July 2020 - Present****                                                  
+**Machine Learning Engineer, WeroFit, July 2020 - Present**                                                  
   * Work on an images processing and computer vision project.
   * Extract various kind of object present in an image and extract various dimension size of an object present in an images.
 
-****Machine Learning Intern, ABB, May 2019 - July 2020****                                                         
+**Machine Learning Intern, ABB, May 2019 - July 2020**                                                       
   * Perform various types of image augmentation techniques to increases the size of the dataset by 50% then original. Work on the various object detection algorithm like Single     Shot Detection and Faster-RCNN.                                            
   * Used Tensorflow Object Detection API and Transfer Learning to train various types of object and achieve the mean average precision of 75%. 
   * Also work on text data where I use to extract important text information from large word documents using a regular expression, data extraction, and text cleaning techniques     using various python libraries.
