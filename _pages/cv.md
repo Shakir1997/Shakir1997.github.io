@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume PDF](https://drive.google.com/file/d/196GCVAToOfzyiD3L0kikT_7YsqQ4E38u/view)
+
 AI enthusiast with a strong mathematical background. I have good Knowledge of Machine Learning algorithms and have work on various projects related to it. Highly motivated and passionate always willing to learn, work in such cutting edge technology.
 
 Education
@@ -37,7 +39,7 @@ Technical Skills
 **Languages/Scripts/Database:** Python, R, HTML(Elemantary), MySQL \
 **DL Libraries:** Sklearn, Keras, Tensorflow, OpenCV \
 **Tools/Software:** Orange, Weka, Power BI, TeXstudio(Latex), MS Excel \
-**Operating System:** Windows, Linux \
+**Operating System:** Windows, Linux 
 
 Achievents & Co-Curricular Activities
 ======
