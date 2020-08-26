@@ -1,6 +1,6 @@
 ---
 title: "Email Spam Classification"
-excerpt: "<br/><img src='/images/email-spam.jpeg.png'>"
+excerpt: "<br/><img src='/images/email-spam.jpeg'>"
 collection: portfolio
 ---
 
