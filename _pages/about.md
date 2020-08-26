@@ -12,7 +12,7 @@ redirect_from:
 
 * My research interets lie in general Machine Learning and Quantum Computing to solve real time problem in Cyber Security and Healthcare industry.
 
-* I hold Master's Degree in 'Computer Science and Engineering (CSE)', with a specialisation in 'Data Science and Analytics' from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/) and Bachelor's Degree in 'Electrical Engineering' from (L.D. College of Engineering)[http://ldce.ac.in/departments/electrical-engineering]
+* I hold Master's Degree in 'Computer Science and Engineering (CSE)', with a specialisation in 'Data Science and Analytics' from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/) and Bachelor's Degree in 'Electrical Engineering' from [L.D. College of Engineering](http://ldce.ac.in/departments/electrical-engineering)
 
 * I was machine learning intern at [ABB](https://global.abb/group/en) for 1 year during last year in master's.
 
