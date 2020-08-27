@@ -2,7 +2,10 @@
 title: "Finding Donors for CharityML"
 excerpt: "<br/><img src='/images/charity.jpg'>"
 collection: portfolio
-
+tags:
+  - Random Forest
+  - Logistic Regression
+  - GaussianNB
 ---
 
 **Keywords:** Random Forest, Logistic Regression, GaussianNB
