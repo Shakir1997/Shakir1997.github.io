@@ -173,7 +173,7 @@ vs.distribution(data)
     
 
 
-![](https://github.com/Shakir1997/projects-portfolio-ML/blob/master/finding_donars/images/output_8_1.png)
+![]('images/output_8_1.png)
 
 
 For highly-skewed feature distributions such as `'capital-gain'` and `'capital-loss'`, it is common practice to apply a <a href="https://en.wikipedia.org/wiki/Data_transformation_(statistics)">logarithmic transformation</a> on the data so that the very large and very small values do not negatively affect the performance of a learning algorithm. Using a logarithmic transformation significantly reduces the range of values caused by outliers. Care must be taken when applying this transformation however: The logarithm of `0` is undefined, so we must translate the values by a small amount above `0` to apply the the logarithm successfully.
