@@ -1,6 +1,6 @@
 ---
 title: "Finding Donors for CharityML"
-excerpt: "Classification problem, Feature engineering. Applied Random Forest, Logistic Regression and Gradient Descent Algorithm and selected Logistic Regression with the highest Accuracy and F-score of  84% and 68%. \
+excerpt: "Classification problem, Feature engineering. Applied Random Forest, Logistic Regression and Gradient Descent Algorithm and selected Logistic Regression with the highest Accuracy and F-score of  84% and 68%. 
 <br/><img src='/images/charity.jpg'>"
 collection: portfolio
 tags:
