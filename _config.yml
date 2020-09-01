@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shakirali Vijapura"
   avatar           : "Shakirali_Vijapura.jpg"
-  bio              : "Machine Leaarning Engineer"
+  bio              : "Machine Learning Engineer"
   location         : "Ahmedabad"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/14196366/cyborg
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
