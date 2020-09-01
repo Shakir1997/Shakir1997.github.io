@@ -11,8 +11,7 @@ tags:
 
 [**Github Code**](https://github.com/Shakir1997/projects-portfolio-ML/tree/master/finding_donars)
 
-# Machine Learning Engineer Nanodegree
-## Supervised Learning
+
 ## Project: Finding Donors for *CharityML*
 
 ----
