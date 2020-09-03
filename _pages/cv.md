@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume PDF](https://drive.google.com/file/d/196GCVAToOfzyiD3L0kikT_7YsqQ4E38u/view)
+[Download Resume PDF](https://drive.google.com/file/d/1tuO65FnxbmR9ZVJM4Q0lGKaMOde-sGlS/view)
 
 AI enthusiast with a strong mathematical background. I have good Knowledge of Machine Learning algorithms and have work on various projects related to it. Highly motivated and passionate always willing to learn, work in such cutting edge technology.
 
